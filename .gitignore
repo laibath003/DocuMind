@@ -1,0 +1,108 @@
+
+# ==============================
+# Dependencies
+# ==============================
+node_modules/
+**/node_modules/
+
+# ==============================
+# Environment variables and secrets
+# ==============================
+.env
+.env.*
+!.env.example
+!.env.*.example
+
+# ==============================
+# Build outputs
+# ==============================
+dist/
+build/
+out/
+coverage/
+.vite/
+*.tsbuildinfo
+
+# ==============================
+# Logs
+# ==============================
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# ==============================
+# Uploaded documents and user data
+# ==============================
+uploads/
+storage/
+data/uploads/
+*.pdf
+*.doc
+*.docx
+*.xls
+*.xlsx
+*.ppt
+*.pptx
+
+# ==============================
+# Temporary files
+# ==============================
+tmp/
+temp/
+.temp/
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# ==============================
+# Testing and reports
+# ==============================
+.nyc_output/
+playwright-report/
+test-results/
+
+# ==============================
+# IDEs and editors
+# ==============================
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+.idea/
+*.suo
+*.user
+*.userosscache
+
+# ==============================
+# Operating system files
+# ==============================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ==============================
+# Local databases and vector data
+# ==============================
+*.sqlite
+*.sqlite3
+*.db
+.qdrant/
+qdrant_storage/
+chroma/
+
+# ==============================
+# Deployment and local tooling
+# ==============================
+.vercel/
+.netlify/
+.turbo/
+.cache/
+
+# ==============================
+# Package manager debug files
+# ==============================
+.npm/
+.eslintcache
+.stylelintcache
