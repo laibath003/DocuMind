@@ -2,7 +2,7 @@
 
 DocuMind AI is an AI-powered research assistant that helps users explore information from the web, analyze uploaded PDF documents, and combine both sources to generate context-aware answers.
 
-It supports multiple research modes, intelligent query routing, semantic document retrieval, real-time AI response streaming, and source citations — all through a clean, intuitive research workspace.
+It supports multiple research modes, intelligent query routing, semantic document retrieval, real-time AI response streaming, and source citations, all through a clean, intuitive research workspace.
 
 ## 🎥 Video Demo
 
