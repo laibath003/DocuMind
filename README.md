@@ -6,7 +6,7 @@ It supports multiple research modes, intelligent query routing, semantic documen
 
 ## 🎥 Video Demo
 
-
+https://github.com/user-attachments/assets/9d7ce4c6-49b0-4933-b346-1e2916b1ead9
 
 ## ✨ Features
 
